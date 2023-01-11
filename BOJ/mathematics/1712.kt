@@ -1,4 +1,4 @@
-package level_07
+package mathematics
 
 fun main() {
     val m = readln().split(" ")
