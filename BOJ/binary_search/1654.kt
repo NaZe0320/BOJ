@@ -1,4 +1,4 @@
-package problem
+package binary_search
 
 //@랜선 자르기
 fun main() {
