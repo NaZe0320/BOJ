@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package mathematics
+=======
+package problem
+>>>>>>> origin/main
 
 fun main() {
     val br = System.`in`.bufferedReader()
