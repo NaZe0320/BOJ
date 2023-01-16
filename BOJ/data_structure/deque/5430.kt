@@ -1,4 +1,4 @@
-package problem
+package data_structure.deque
 
 fun main() {
     val br = System.`in`.bufferedReader()
