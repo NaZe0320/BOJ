@@ -1,4 +1,4 @@
-package problem
+package dp
 
 fun main() {
     val br = System.`in`.bufferedReader()
