@@ -1,3 +1,4 @@
+/*
 package graphs
 
 import java.util.LinkedList
@@ -45,4 +46,4 @@ private fun BFS(x:Int,y: Int, arr: Array<Array<Int>>) {
         }
     }
 }
-private data class Node(var x: Int, var y: Int)
+private data class Node(var x: Int, var y: Int)*/
