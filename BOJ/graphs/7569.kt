@@ -1,3 +1,4 @@
+/*
 package graphs
 
 import java.util.LinkedList
@@ -71,4 +72,4 @@ fun main() {
 
 }
 
-private data class Node(val x: Int, val y:Int, val z:Int)
+private data class Node(val x: Int, val y:Int, val z:Int)*/
