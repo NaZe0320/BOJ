@@ -1,3 +1,4 @@
+/*
 package graphs
 
 import java.util.PriorityQueue
@@ -52,5 +53,4 @@ private data class Node(val node: Int, val dist: Int): Comparable<Node> {
     override fun compareTo(other: Node): Int {
         return dist - other.dist
     }
-
-}
+}*/
